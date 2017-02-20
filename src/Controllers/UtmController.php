@@ -2,6 +2,7 @@
 
 namespace Fairhypo\Agroutm\Controllers;
 
+use App\Http\Controllers\Controller;
 use Fairhypo\Agroutm\Models\Utm;
 use Fairhypo\Agroutm\Models\UtmHost;
 
