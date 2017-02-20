@@ -1,0 +1,18 @@
+{
+  "name": "fairhypo/agroservices",
+  "description": "Library for Agro24 project to provide utm functionality",
+  "keywords": ["FairHypo", "Laravel", "Agro24"],
+  "homepage": "https://agro24.ru/",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Yuriy Maslov",
+      "email": "yuriy.maslof@gmail.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "Fairhypo\\Agroutm\\": "src/"
+    }
+  }
+}
